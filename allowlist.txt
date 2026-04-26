@@ -13,3 +13,4 @@
 ||wwwimage-secure.cbsstatic.com^
 ||thumbnails.cbsig.net^
 ||bakery.pplus.paramount.tech^
+||atom.peacocktv.com^
