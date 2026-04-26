@@ -7,3 +7,4 @@
 ||vod-gcs-cedexis.cbsaavideo.com^
 ||cbsinteractive.hb.omtrdc.net^
 ||pub.sentry.io^
+||g[^.]+-vod-us-cmaf-prd-mc.cdn.peacocktv.com^
