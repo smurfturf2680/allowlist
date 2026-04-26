@@ -8,3 +8,9 @@
 ||cbsinteractive.hb.omtrdc.net^
 ||pub.sentry.io^
 ||cbsi.live.ott.irdeto.com^
+||tags.tiqcdn.com^
+||wwwimage-us.pplusstatic.com^
+||wwwimage-secure.cbsstatic.com^
+||thumbnails.cbsig.net^
+||bakery.pplus.paramount.tech^
+||^
