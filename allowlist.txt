@@ -1,0 +1,9 @@
+||saa.paramountplus.com^
+||bff-ext.clients.peacocktv.com^
+||imageservice.disco.peacocktv.com^
+||play.ovp.peacocktv.com^
+||saa.paramountplus.com^
+||saa.cbsi.com^
+||vod-gcs-cedexis.cbsaavideo.com^
+||cbsinteractive.hb.omtrdc.net^
+||pub.sentry.io^
